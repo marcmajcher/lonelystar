@@ -1,0 +1,18 @@
+body {
+  background-image: url('https://gamesindorms.files.wordpress.com/2012/01/noclouds1.png');
+  text-align: center;
+}
+
+div#phrase {
+  width: 60%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 48px;
+  font-weight: 500;
+  color: #ffeecc;
+  margin: 160px auto 100px auto;
+}
+
+div#buttons {
+  text-align: center;
+  top: 340px;
+}
